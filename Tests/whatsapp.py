@@ -1,0 +1,20 @@
+import pywhatkit as kit
+print("Press '1' to add patient")
+d=dict()
+c=input("ADD PATIENT ?: ")
+while c=='1':
+    name=input("Enter name: ")
+    phone=input("Enter Phone number: ")
+    UID=input("Enter UID Number: ")
+    l=[]
+    l.append(name)
+    l.append("+91"+phone)
+    d.update(UID=l)
+    d[UID]=d.pop('UID')
+    print()
+    print(d)
+    print()
+    print("----------------------------------------------")
+    kit.sendwhatmsg(d[UID][1],"This is to inform you that you have been tested positive in RTPCR test, Share your UID with our agent",20,15)
+    c=input("ADD PATIENT ?: ")
+print("End of Today's Work")

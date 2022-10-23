@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bedbooking",
+  "private_key_id": "473443010a9f6af57b77b27e7208f2e09de4d867",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCSWXMxDRxLUEXl\nLSxA5J4hNC/6F1EaSfp37ZmihM8Tel93NIUY+EZfy9ogmbVhu0FOcv8r4J7sW4Rn\n9xqg1mrQsfv6FNDiIcrGgLXrJRNql57gSQDd5ej3X2Etv/3b6DlERD+pUEXC2rhK\nyyJn4tdXIy3AeE6MVt1BlsiaNyipXWXKqwj3mn6VIn0dTbYM86u5tfEEq0r5DxRX\nKPHldmU3GMSeKV07RltxvoRxX/YRW28gNIp/Q7BDKgXvKYh5Cn8umudsv+TyyCnD\n+3ADQrX9nfLw8/vRLr+HS/JCvWehs+AUoM9PI/WNkfS1yMxsyjYUo5Rb2PnkzVnj\nsIOWVOpxAgMBAAECggEABv/9oSxTXMwrdllsHckm7HJRPnu8XAQ11WP+o+YI/Dwv\nh3Ac/aNtGkqR1bAEcPbtRLyotTHlPWuTMGCCsYwP8ojQ2JauTGKkDvfmZlI7qi7e\nYTPyCqsN3ZHTqsXddUCXnKBMZeN6XWZAx7MM+OhstwpDt0pfLMSViKbsVBQB/zfE\njs2k5vEZHCEEHDXdDumRo0XVvYcEt8NL+my/h8zfeKolZPLtlYu6HDHxwLN1+7lM\nn6rNFkK3W9g+4V0uu3u1Un88nfa69/4Or37JpYUcS3uP0PnyauYSiTsviRdoHokP\n138wRwpGmoUUWs+7a9jlSFRD4nXWLTNNk083kAqbEQKBgQDHswbizxbgQQNpg2Lq\nHgGvT1xXAvxR18A5o7ZMxIGIzSrdSzIgv9PyIKbbzDJoyNvKL83tpLp7qatJeZ2B\nqPabdkxwlyNaW2Zvkh+86IxBfLBdBrF5RtYi0XcSJsyuO1ngyaiZ2G5j2UhubkiL\nWyk6F9tQzSsw+NSkUqaMhI3EcwKBgQC7m/r1U+genAhob2XY79HRjZCCGlbqa623\n7vOFEgFxW8AcUYYcUi3yohoc8PmcKKcItkz2Rj570noMlFuQEYn4Hrnm5JUrasMS\n7AxjlvLZgUQ11I485AgGf8pcAM3jtU8hw+qdtQDlREP0RFYKVOWZ/tVsDz79673m\nWod/kafAiwKBgQCpBJETbgsCioQEzbruQ69RXW3eBxzfeCetoS4uEzM/QcbBvV8T\n8MfF6nTPGyifH0FHAubb98wN1jCu40u37fWq5pkTwhed5jXwwFA0Zu4ujwYF9iBH\ncPjUR0zsBALAhGMxqfwVGeV0hPaU4KptqB5gmMh6vuuLa08uNPXZgGcsmQKBgDbP\npGtGX1uKBJ7WZPATaL6LWHvaTChi2zcQtc7b6tX+k0ryunbNv6TSnUR1Vse7zMkr\n0aJl9V1hqczBD1sw9JksCO4fPEGaCHIfyqLR+BN5w77iYcgCayHS9gEZLw3m676W\nqZX3ytIwtpXH3UdZdFcgb6QJdELlO+7v5gRsPpFvAoGBAJ5eqORDl9Hwfl3T6E8U\nloFINQz2tkCJZ1lM3cNFJRb4vVVfXujpzs0EQsnIvJ5nzyKydra9KvkB2w9Q2U6o\nEczCbsEEIDEA02kKvJYXPgb4+b4bM7peNnRy1XIFwQivswDWyOVm/TQnBLJ03j0i\nsEw/rF5QzajELA3bSUG9chOy\n-----END PRIVATE KEY-----\n",
+  "client_email": "minipes@bedbooking.iam.gserviceaccount.com",
+  "client_id": "111319359190949133453",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/minipes%40bedbooking.iam.gserviceaccount.com"
+}
